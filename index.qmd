@@ -1,9 +1,3 @@
 ---
-title: "katelyn-vidal.github.io"
+title: "Katelyn Vidal"
 ---
-
-
-
-```{r}
-
-```
