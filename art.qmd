@@ -1,0 +1,35 @@
+---
+title: "Art"
+---
+
+Here are some art pieces I’ve made over the past few years that I’m particularly proud of!
+
+![](media/Oil_painting.jpg){fig-align="left" width="435"}
+
+**Float Away**, 2021\
+Oil on canvas\
+
+![](media/Colored_pencil.JPG){width="435"}
+
+**Spoon-billed sandpiper**, 2020\
+Colored pencil and gouache on mixed media paper\
+
+![](media/Graphite_drawing.jpg){width="435"}
+
+**Wyllo the sock stealer**, 2021\
+Graphite on mixed media paper\
+
+![](media/Digital_drawing.png){width="435"}
+
+**Sleepy Wyllo**, 2023\
+Digital drawing\
+
+![](media/Gouache.JPG){width="435"}
+
+**Blossom**, 2021\
+Gouache on multi media paper\
+
+![](media/Marker.JPG){width="435"}
+
+**Hypnotize**, 2020\
+Ink on multi media paper
