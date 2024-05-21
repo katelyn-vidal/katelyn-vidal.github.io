@@ -10,6 +10,7 @@ website:
       text: Home
     - art.qmd
     - crochet.qmd
+    - portfolio.qmd
 
 format:
   html:
