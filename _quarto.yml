@@ -14,8 +14,9 @@ website:
 
 format:
   html:
-    theme: morph
-    css: styles.css
+    theme:
+      - styles.scss
+      - morph
     toc: true
     page-layout: full
     
