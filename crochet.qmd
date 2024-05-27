@@ -4,24 +4,18 @@ title: "Crochet"
 
 Here are some of my favorite crochet pieces, along with the tutorials I used to make them!
 
-![](media/spiderweb.png){width="463"}
+![](media/spiderweb.png){fig-align="center" width="463"}
 
-**Spider web top**\
-[Tutorial](https://youtu.be/VtQjWlf8NKA?si=PBttz-VHR5P1EyN6)\
-Note: The video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!
+<p class="center-text">**Spider web top**<br>[Tutorial](https://youtu.be/VtQjWlf8NKA?si=PBttz-VHR5P1EyN6)<br>Note: The video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!<br><br></p>
 
-![](media/star_bag.png){width="338"}
+![](media/star_bag.png){fig-align="center" width="338"}
 
-**Star messenger bag\
-**[Tutorial](https://youtu.be/jBN1y6OOLM4?si=o7ThVcFDVLSFiS6a)\
-Note: The tutorial is for a smaller bag, but just add more chains/rows to increase the size. Lining the bag with sturdy fabric also prevents the bag from stretching!
+<p class="center-text">**Star messenger bag**<br>[Tutorial](https://youtu.be/jBN1y6OOLM4?si=o7ThVcFDVLSFiS6a)<br>Note: The tutorial is for a smaller bag, but just add more chains/rows to increase the size. Lining the bag with sturdy fabric also prevents the bag from stretching!<br><br></p>
 
-![](media/distressed.png){width="446"}
+![](media/distressed.png){fig-align="center" width="446"}
 
-**Distressed top\
-**[Tutorial](https://youtu.be/kCnk-3FM22Q?si=j_OpZyUCfc22PFVI)\
+<p class="center-text">**Distressed top**<br>[Tutorial](https://youtu.be/kCnk-3FM22Q?si=j_OpZyUCfc22PFVI)<br><br></p>
 
-![](media/flower_lace.png){width="457"}
+![](media/flower_lace.png){fig-align="center" width="457"}
 
-**Flower lace top\
-**[Tutorial](https://youtu.be/4fjdqGCWym8?si=tLCHES6BfuPC11EA)
+<p class="center-text">**Flower lace top**<br>[Tutorial](https://youtu.be/4fjdqGCWym8?si=tLCHES6BfuPC11EA)<br><br></p>

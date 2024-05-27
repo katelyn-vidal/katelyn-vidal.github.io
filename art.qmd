@@ -8,7 +8,6 @@ Here are some art pieces I’ve made over the past few years that I’m particul
 
 <p class="center-text">**Float Away**, 2021<br>Oil on canvas<br><br></p>
 
-
 ![](media/Colored_pencil.JPG){fig-align="center" width="435"}
 
 <p class="center-text">**Spoon-billed sandpiper**, 2020<br>Colored pencil and gouache on mixed media paper<br><br></p>
