@@ -3,6 +3,9 @@
 // Import fonts
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+// Fonts
+$libre: "Libre Baskerville", serif;
+
 // Colors
 $dark-green: #2d4c24;
 $sage-green: #c1d0b5;
@@ -23,6 +26,10 @@ $code-bg: $cream; // inline code background color
 $code-color: $teal; // inline code text color
 
 /*-- scss:rules --*/
+
+h1 {
+  font-family: $libre;
+}
 
 .center-text {
   text-align: center;
