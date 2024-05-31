@@ -8,11 +8,11 @@
 
 **Directions used to make website**:
 -    [Creating your personal website using Quarto](https://ucsb-meds.github.io/creating-quarto-websites/) - Sam Csik
--    [Customizing Quarto Websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) - Sam Sam Csik
+-    [Customizing Quarto Websites](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide) - Sam Csik
 
 # File overview
 
--    `katelyn-vidal.github.io.Rproj`:
+-    `katelyn-vidal.github.io.Rproj`: project file
 -    `quarto.yml`: configuration file
 -    `about.qmd`: code file for home page
 -    `index.qmd`: code file for home page
