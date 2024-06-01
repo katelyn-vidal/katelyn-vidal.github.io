@@ -34,4 +34,4 @@
 
 # Rendered output
 
-The rendered .html for this repo is [here](https://katelyn-vidal.github.io/)
+The rendered website for this repo is [here](https://katelyn-vidal.github.io/)
