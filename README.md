@@ -25,7 +25,7 @@
       -   `about.html`: rendered HTML of `about.qmd`
       -   `art.html`: rendered HTML of `art.qmd`
       -   `crochet.html`: rendered HTML of `crochet.qmd` 
-      -   `index.html`: rendered HTML of `index.qmd
+      -   `index.html`: rendered HTML of `index.qmd`
       -   `portfolio.html`: rendered HTML of `portfolio.qmd`
       -   `media`: image for home, art, and crochet page
       -   `search.json`: search tool 
