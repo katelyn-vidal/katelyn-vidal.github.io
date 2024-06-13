@@ -7,7 +7,7 @@ filters:
 Here are some art pieces I’ve made over the past few years that I’m particularly proud of!
 
 ::: {layout="[[1,1,1], [-1], [1,1], [-1], [1,1,1]]"}
-![Colored pencil and gouache on mixed media paper](media/Colored_pencil.JPG){.lightbox} <font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font>
+![Colored pencil and gouache on mixed media paper](media/Colored_pencil.JPG){.lightbox} <font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font> 
 
 ![Digital drawing](media/Sleepy_Wyllo.png){.lightbox} <font color="#2d4c24">**Sleepy Wyllo**, 2023</font>
 
