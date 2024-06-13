@@ -4,27 +4,28 @@ title: "Art"
 
 Here are some art pieces I’ve made over the past few years that I’m particularly proud of!
 
-![](media/Oil_painting.jpg){fig-align="center" width="435"}
+::: {layout="[[1,1,1], [-1], [1,1], [-1], [1,1,1]]"}
+![**Spoon-billed sandpiper**, 2020](media/Colored_pencil.JPG)
+<font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font>
 
-<p class="center-text">**Float Away**, 2021<br>Oil on canvas<br><br></p>
+![**Sleepy Wyllo**, 2023](media/Sleepy_Wyllo.png)
+<font color="#2d4c24">**Sleepy Wyllo**, 2023</font>
 
-![](media/Colored_pencil.JPG){fig-align="center" width="435"}
+![**Blossom**, 2021](media/Gouache.JPG)
+<font color="#2d4c24">**Blossom**, 2021</font>
 
-<p class="center-text">**Spoon-billed sandpiper**, 2020<br>Colored pencil and gouache on mixed media paper<br><br></p>
+![**Hypnotize**, 2020](media/Marker.JPG)
+<font color="#2d4c24">**Hypnotize**, 2020</font>
 
-![](media/Graphite_drawing.jpg){fig-align="center" width="435"}
+![**Float Away**, 2021](media/Oil_painting.jpg)
+<font color="#2d4c24">**Float Away**, 2021</font>
 
-<p class="center-text">**Wyllo the sock stealer**, 2021<br>Graphite on mixed media paper<br><br></p>
+![**E.T.**, 2021](media/et.jpg)
+<font color="#2d4c24">**E.T.**, 2021</font>
 
-![](media/Digital_drawing.png){fig-align="center" width="435"}
+![**Wyllo the sock stealer**, 2021](media/Graphite_drawing.jpg)
+<font color="#2d4c24">**Wyllo the sock stealer**, 2021</font>
 
-<p class="center-text">**Sleepy Wyllo**, 2023<br>Digital drawing<br><br></p>
-
-![](media/Gouache.JPG){fig-align="center" width="435"}
-
-<p class="center-text">**Blossom**, 2021<br>Gouache on mixed media paper<br><br></p>
-
-![](media/Marker.JPG){fig-align="center" width="435"}
-
-<p class="center-text">**Hypnotize**, 2020<br>Ink on mixed media paper<br><br></p>
-
+![**Succulent**, 2020](media/succulent.JPG)
+<font color="#2d4c24">**Succulent**, 2020</font>
+:::
