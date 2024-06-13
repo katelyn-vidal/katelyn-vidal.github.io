@@ -1,0 +1,10 @@
+---
+title: "Portfolio"
+listing: 
+  contents: posts1 # all Quarto docs in the `posts` directory will be included on your listing page
+  type: grid # or `default` or `table`; each type has its own set of yaml options to include
+  sort: "date desc" # can also sort on more than one field
+  categories: true # allows you to sort posts by assigned categories
+---
+
+Here are some writing pieces I did during my undergrad that I especially enjoyed working on. Hope you enjoy reading, and feel free to email me if you have any questions!

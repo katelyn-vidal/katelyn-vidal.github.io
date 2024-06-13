@@ -10,7 +10,7 @@ website:
       text: Home
     - art.qmd
     - posts.qmd
-    - portfolio.qmd
+    - posts1.qmd
 
 format:
   html:

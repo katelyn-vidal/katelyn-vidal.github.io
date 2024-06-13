@@ -1,0 +1,19 @@
+---
+title: "ENV S 149 Food, Agriculture, and the Environment"
+description: "a blog post about filipino food & agriculture and colonialism"
+author:
+  - name: Katelyn Vidal
+    url: https://katelyn-vidal.github.io/
+date: 06-13-2024
+categories: [Blogs] # self-defined categories
+citation: 
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-portfolio-blog-blog-post/ 
+image: food.png
+draft: false 
+---
+
+![](ES149_Final_Project_.pdf){width=100% height=800 }
+
+# Abstract
+
+This blog post explores the history of Spanish colonialism in the Philippines and how this has impacted Filipino food and agriculture, along with the subsequent Westernization of Filipino cuisine and how this connects to increased health risks prevalent in Filipino communities in the US.
