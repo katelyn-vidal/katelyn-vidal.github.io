@@ -1,0 +1,42 @@
+---
+title: "Spider web top"
+description: "a cool top for halloween or any time you're feeling spooky"
+author:
+  - name: Katelyn Vidal
+    url: https://katelyn-vidal.github.io/
+date: 06-13-2024
+categories: [Tops] # self-defined categories
+citation: 
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-crochet-web-blog-post/ 
+image: spiderweb_copy.png
+draft: false 
+---
+
+![](spiderweb.png){fig-align="center" width="356"}
+
+# Description
+
+This top is great for beginners and builds up super quickly too, making this a great last-minute Halloween outfit!
+
+# Materials
+
+4.25mm crochet hook (I used a slightly larger hook for looser stitches)\
+Superfine-fine yarn (any thin yarn works)\
+Stitch markers (safety pins work great)\
+Darning needle\
+Scissors\
+Measuring tape\
+Patience
+
+# Tutorial
+
+Here's the youtube tutorial I followed to make this top!
+
+```{r, echo=FALSE}
+library(vembedr)
+embed_url("https://youtu.be/VtQjWlf8NKA?si=PBttz-VHR5P1EyN6")
+```
+
+# Tips
+
+I highly recommend using stitch markers to keep track of your rows because it can get a bit tricky as you go. Also, the video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!

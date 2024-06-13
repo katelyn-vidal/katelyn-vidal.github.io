@@ -1,0 +1,20 @@
+{
+  "hash": "2cf8870b42e8126c4dd0c8f42c1133eb",
+  "result": {
+    "markdown": "---\ntitle: \"Distressed top\"\ndescription: \"an easy distressed top to help you destress\"\nauthor:\n  - name: Katelyn Vidal\n    url: https://katelyn-vidal.github.io/\ndate: 06-13-2024\ncategories: [Tops] # self-defined categories\ncitation: \n  url: https://katelyn-vidal.github.io/posts/2024-06-13-crochet-distressed-blog-post/ \nimage: distressed_copy.png\ndraft: false \n---\n\n\n![](distressed.png){fig-align=\"center\" width=\"356\"}\n\n# Description\n\nThis top is great for beginners and builds up super quickly too, making this a great last-minute Halloween outfit!\n\n# Materials\n\n5mm crochet hook (I used a slightly larger hook for looser stitches)\\\nFine yarn or worsted yarn\\\nStitch markers (safety pins work great)\\\nDarning needle\\\nScissors\\\nMeasuring tape\\\n\n# Tutorial\n\nHere's the youtube tutorial I followed to make this top!\n\n\n::: {.cell}\n::: {.cell-output-display}\n```{=html}\n<div class=\"vembedr\">\n<div>\n<iframe src=\"https://www.youtube.com/embed/VtQjWlf8NKA\" width=\"533\" height=\"300\" frameborder=\"0\" allowfullscreen=\"\" data-external=\"1\"></iframe>\n</div>\n</div>\n```\n:::\n:::\n\n\n# Tips\n\nI highly recommend using stitch markers to keep track of your rows because it can get a bit tricky as you go. Also, the video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {
+      "include-in-header": [
+        "<link href=\"../../site_libs/vembedr-0.1.5/css/vembedr.css\" rel=\"stylesheet\" />\n"
+      ]
+    },
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
