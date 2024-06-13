@@ -16,13 +16,13 @@ draft: false
 
 # Description
 
-This top is great for beginners and builds up super quickly too, making this a great last-minute Halloween outfit!
+This top is a perfect project if you're looking for something to make that will crochet the stress away. Although it might look intricate, this top only requires double crochets, and the distressed part is just a chain stretched out super long! 
 
 # Materials
 
 5mm crochet hook (I used a slightly larger hook for looser stitches)\
-Fine yarn or worsted yarn\
-Stitch markers (safety pins work great)\
+DK yarn\
+Stitch markers (safety pins, paper clips, or bobby pins work great)\
 Darning needle\
 Scissors\
 Measuring tape\
@@ -33,9 +33,9 @@ Here's the youtube tutorial I followed to make this top!
 
 ```{r, echo=FALSE}
 library(vembedr)
-embed_url("https://youtu.be/VtQjWlf8NKA?si=PBttz-VHR5P1EyN6")
+embed_url("https://youtu.be/kCnk-3FM22Q?si=j_OpZyUCfc22PFVI")
 ```
 
 # Tips
 
-I highly recommend using stitch markers to keep track of your rows because it can get a bit tricky as you go. Also, the video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!
+Try to keep your tension looser than normal for a more distressed look, or try experimenting with different tensions and colors to add some interest! Also, you will get caught in things while wearing this top out but just embrace it (it also adds to the distressed look)
