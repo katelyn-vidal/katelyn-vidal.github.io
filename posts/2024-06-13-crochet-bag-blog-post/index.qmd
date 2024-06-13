@@ -1,0 +1,41 @@
+---
+title: "Star messenger bag"
+description: "a stylish bag perfect for school or everyday use"
+author:
+  - name: Katelyn Vidal
+    url: https://katelyn-vidal.github.io/
+date: 06-13-2024
+categories: [Bags] # self-defined categories
+citation: 
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-crochet-bag-blog-post/ 
+image: star_bag_copy.png
+draft: false 
+---
+
+![](star_bag.png){fig-align="center" width="303"}
+
+# Description
+
+This bag is another great project for beginners because it's made using one stitch (double crochet). I ended up making my bag around 9x12 inches, which fits my iPad, 24oz water bottle, headphones, keys, wallet, phone, and more. I also sewed a felt star onto my bag, but feel free to add any design you'd like!
+
+# Materials
+
+5mm crochet hook\
+DK or worsted yarn\
+Stitch markers (safety pins work great)\
+Darning needle\
+Scissors\
+Measuring tape\
+
+# Tutorial
+
+Here's the youtube tutorial I followed to make this top!
+
+```{r, echo=FALSE}
+library(vembedr)
+embed_url("https://youtu.be/jBN1y6OOLM4?si=o7ThVcFDVLSFiS6a")
+```
+
+# Tips
+
+The above tutorial is for a smaller bag, but just add more chains and rows to increase the size. Lining the bag with sturdy fabric also prevents the bag from stretching! I also added a magnetic button for easy open/closure and an inside pocket for fast access to smaller items, along with a removable plastic bottom for extra support. If you decide to line your bag, I recommend using clear sewing thread so you don't see your stitches.    
