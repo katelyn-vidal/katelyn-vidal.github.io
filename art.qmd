@@ -7,27 +7,19 @@ filters:
 Here are some art pieces I’ve made over the past few years that I’m particularly proud of!
 
 ::: {layout="[[1,1,1], [-1], [1,1], [-1], [1,1,1]]"}
-![Colored pencil and gouache on mixed media paper](media/Colored_pencil.JPG){.lightbox}
-<font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font>
+![Colored pencil and gouache on mixed media paper](media/Colored_pencil.JPG){.lightbox} <font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font>
 
-![Digital drawing](media/Sleepy_Wyllo.png){.lightbox}
-<font color="#2d4c24">**Sleepy Wyllo**, 2023</font>
+![Digital drawing](media/Sleepy_Wyllo.png){.lightbox} <font color="#2d4c24">**Sleepy Wyllo**, 2023</font>
 
-![Gouache on mixed media paper](media/Gouache.JPG){.lightbox}
-<font color="#2d4c24">**Blossom**, 2021</font>
+![Gouache on mixed media paper](media/Gouache.JPG){.lightbox} <font color="#2d4c24">**Blossom**, 2021</font>
 
-![Ink on mixed media paper](media/Marker.JPG){.lightbox}
-<font color="#2d4c24">**Hypnotize**, 2020</font>
+![Ink on mixed media paper](media/Marker.JPG){.lightbox} <font color="#2d4c24">**Hypnotize**, 2020</font>
 
-![Oil on canvas](media/Oil_painting.jpg){.lightbox}
-<font color="#2d4c24">**Float Away**, 2021</font>
+![Oil on canvas](media/Oil_painting.jpg){.lightbox} <font color="#2d4c24">**Float Away**, 2021</font>
 
-![Acrylic on canvas](media/et.jpg){.lightbox}
-<font color="#2d4c24">**E.T.**, 2021</font>
+![Acrylic on canvas](media/et.jpg){.lightbox} <font color="#2d4c24">**E.T.**, 2021</font>
 
-![Graphite on mixed media paper](media/Graphite_drawing.jpg){.lightbox}
-<font color="#2d4c24">**Wyllo the sock stealer**, 2021</font>
+![Graphite on mixed media paper](media/Graphite_drawing.jpg){.lightbox} <font color="#2d4c24">**Wyllo the sock stealer**, 2021</font>
 
-![Graphite on mixed media paper](media/succulent.JPG){.lightbox}
-<font color="#2d4c24">**Succulent**, 2020</font>
+![Graphite on mixed media paper](media/succulent.JPG){.lightbox} <font color="#2d4c24">**Succulent**, 2020</font>
 :::
