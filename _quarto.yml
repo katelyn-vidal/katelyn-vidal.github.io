@@ -9,7 +9,7 @@ website:
     - href: index.qmd
       text: Home
     - art.qmd
-    - crochet.qmd
+    - posts.qmd
     - portfolio.qmd
 
 format:
