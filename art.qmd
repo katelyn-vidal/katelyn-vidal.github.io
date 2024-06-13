@@ -1,31 +1,33 @@
 ---
 title: "Art"
+filters: 
+  - lightbox
 ---
 
 Here are some art pieces I’ve made over the past few years that I’m particularly proud of!
 
 ::: {layout="[[1,1,1], [-1], [1,1], [-1], [1,1,1]]"}
-![**Spoon-billed sandpiper**, 2020](media/Colored_pencil.JPG)
+![Colored pencil and gouache on mixed media paper](media/Colored_pencil.JPG){.lightbox}
 <font color="#2d4c24">**Spoon-billed sandpiper**, 2020</font>
 
-![**Sleepy Wyllo**, 2023](media/Sleepy_Wyllo.png)
+![Digital drawing](media/Sleepy_Wyllo.png){.lightbox}
 <font color="#2d4c24">**Sleepy Wyllo**, 2023</font>
 
-![**Blossom**, 2021](media/Gouache.JPG)
+![Gouache on mixed media paper](media/Gouache.JPG){.lightbox}
 <font color="#2d4c24">**Blossom**, 2021</font>
 
-![**Hypnotize**, 2020](media/Marker.JPG)
+![Ink on mixed media paper](media/Marker.JPG){.lightbox}
 <font color="#2d4c24">**Hypnotize**, 2020</font>
 
-![**Float Away**, 2021](media/Oil_painting.jpg)
+![Oil on canvas](media/Oil_painting.jpg){.lightbox}
 <font color="#2d4c24">**Float Away**, 2021</font>
 
-![**E.T.**, 2021](media/et.jpg)
+![Acrylic on canvas](media/et.jpg){.lightbox}
 <font color="#2d4c24">**E.T.**, 2021</font>
 
-![**Wyllo the sock stealer**, 2021](media/Graphite_drawing.jpg)
+![Graphite on mixed media paper](media/Graphite_drawing.jpg){.lightbox}
 <font color="#2d4c24">**Wyllo the sock stealer**, 2021</font>
 
-![**Succulent**, 2020](media/succulent.JPG)
+![Graphite on mixed media paper](media/succulent.JPG){.lightbox}
 <font color="#2d4c24">**Succulent**, 2020</font>
 :::
