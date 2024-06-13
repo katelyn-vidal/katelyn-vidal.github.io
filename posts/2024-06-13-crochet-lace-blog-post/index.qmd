@@ -1,22 +1,22 @@
 ---
 title: "Flower lace top"
-description: "an easy distressed top to help you destress"
+description: "a lovely flower lace top perfect for spring or whenever"
 author:
   - name: Katelyn Vidal
     url: https://katelyn-vidal.github.io/
 date: 06-13-2024
 categories: [Tops] # self-defined categories
 citation: 
-  url: https://katelyn-vidal.github.io/posts/2024-06-13-crochet-distressed-blog-post/ 
-image: distressed_copy.png
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-crochet-lace-blog-post/ 
+image: flower_lace_copy.png
 draft: false 
 ---
 
-![](distressed.png){fig-align="center" width="356"}
+![](flower_lace.png){fig-align="center" width="356"}
 
 # Description
 
-This top is great for beginners and builds up super quickly too, making this a great last-minute Halloween outfit!
+This lace top is more difficult compared to the other ones I've shown but once you get the hang of the pattern, it gets easier. I like paring this top with jeans or underneath overalls! 
 
 # Materials
 
@@ -33,9 +33,9 @@ Here's the youtube tutorial I followed to make this top!
 
 ```{r, echo=FALSE}
 library(vembedr)
-embed_url("https://youtu.be/VtQjWlf8NKA?si=PBttz-VHR5P1EyN6")
+embed_url("https://youtu.be/4fjdqGCWym8?si=tLCHES6BfuPC11EA")
 ```
 
 # Tips
 
-I highly recommend using stitch markers to keep track of your rows because it can get a bit tricky as you go. Also, the video tutorial includes sleeves, but if you want to recreate the top like how I made it, just skip that part!
+It took me a long time to get the hang of this pattern, so if you're having a hard time making this top too, don't feel discouraged! I also found it difficult to see which part of the pattern I was making while crocheting each row. So, I recommend making a practice swatch to help you get used to identifying which part of the flower you're crocheting.
