@@ -1,0 +1,22 @@
+---
+title: "ENV S 101 Ecosystem Services and Biodiversity"
+description: "an essay about the ecological and cultural significance of riparian wetlands"
+author:
+  - name: Katelyn Vidal
+    url: https://katelyn-vidal.github.io/
+date: 06-13-2024
+categories: [Essays] # self-defined categories
+citation: 
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-portfolio-essay-blog-post/ 
+image: riparian.png
+draft: false 
+---
+
+# Abstract
+
+This paper describes riparian wetlands and their ecological benefits, like erosion control and nitrogen removal, along with the cultural ecosystem services they provide, like the cultural and spiritual identity of California Native Americans. It also covers the effects of European colonization on riparian wetlands in CA and the importance of traditional ecological knowledge (TEK) and traditional resource management (TRM).
+
+<br>
+
+![](essay.pdf){width="100%" height="800"}
+

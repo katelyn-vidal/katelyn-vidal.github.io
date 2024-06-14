@@ -1,0 +1,21 @@
+---
+title: "ENV S 40 Critical Thinking and Evidence-Based Reasoning for the Environment"
+description: "a zine about fast fashion and our relationship with clothing"
+author:
+  - name: Katelyn Vidal
+    url: https://katelyn-vidal.github.io/
+date: 06-13-2024
+categories: [Zines] # self-defined categories
+citation: 
+  url: https://katelyn-vidal.github.io/posts/2024-06-13-portfolio-zine-blog-post/ 
+image: cover.png
+draft: false 
+---
+
+# Abstract
+
+This zine is an investigation of our relationship with the environment and clothing and works to answer the question, “How has our relationship with the environment and clothing contributed to the rise of fast fashion.” It explores topics such as colonialism, capitalism, and consumerism and how this has impacted the environment and the fast fashion industry.
+
+<br>
+
+![](zine.pdf){width="100%" height="800"}
